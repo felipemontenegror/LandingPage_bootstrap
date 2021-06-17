@@ -7,6 +7,10 @@
 
 .banner-topo {
     background-image: url(../img/algo.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .banner-topo .img-destaque {
@@ -24,4 +28,13 @@
     color: #f9fafa;
 }
 
+.banner-baixo {
+    background-image: url(../img/tech_.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
 
+}
