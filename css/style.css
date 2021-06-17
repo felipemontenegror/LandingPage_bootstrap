@@ -23,9 +23,15 @@
     color: #f9fafa
 }
 
+
+
 .quem-somos {
     background: #111419;
     color: #f9fafa;
+}
+
+.h1{
+    color: #14cc99
 }
 
 .banner-baixo {
@@ -37,4 +43,10 @@
     padding-top: 100px;
     padding-bottom: 100px;
 
+}
+
+.rodape {
+    color: #f9fafa;
+    background: #111419;
+    
 }
