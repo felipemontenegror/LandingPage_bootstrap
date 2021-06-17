@@ -6,7 +6,7 @@
 }
 
 .banner-topo {
-    background-color: #191e25;
+    background-image: url(../img/algo.png);
 }
 
 .banner-topo .img-destaque {
@@ -18,3 +18,10 @@
 .banner-topo p{
     color: #f9fafa
 }
+
+.quem-somos {
+    background: #111419;
+    color: #f9fafa;
+}
+
+
