@@ -1,7 +1,8 @@
 .topo {
     padding: 20px 0;
     position: relative;
-
+    /*position: sticky;*/
+    /*background: #fff;*/
 
 }
 
@@ -48,7 +49,7 @@
 }
 
 .rodape {
+    padding: 1px;
     color: #f9fafa;
     background: #111419;
-
 }
