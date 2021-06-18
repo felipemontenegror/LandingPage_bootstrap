@@ -23,7 +23,9 @@
     color: #f9fafa
 }
 
-
+.banner-topo h4{
+    color: #f9fafa
+}
 
 .quem-somos {
     background: #111419;
@@ -48,5 +50,5 @@
 .rodape {
     color: #f9fafa;
     background: #111419;
-    
+
 }
